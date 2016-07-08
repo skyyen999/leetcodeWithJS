@@ -6,5 +6,5 @@
 * [字串String](string.md)
    * [LeetCode 344 - Reverse String](questions/344md.md)
 * [其他Others](others.md)
-   * [LeetCode 292 - Nim Game](questions292md.md)
+   * [LeetCode 292 - Nim Game](questions/292md.md)
 
