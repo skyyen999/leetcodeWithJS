@@ -6,6 +6,6 @@
 * 字串String
    * [LeetCode 344 - Reverse String](questions/344md.md)
 * [其他Others](others.md)
+   * LeetCode 371 - Sum of Two Integers
    * [LeetCode 292 - Nim Game](questions/292md.md)
-* LeetCode 371 - Sum of Two Integers
 
