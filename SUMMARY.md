@@ -5,4 +5,6 @@
 * [題號排序](sortbynumber.md)
 * [字串String](string.md)
    * [LeetCode 344 - Reverse String](344.md)
-
+* [其他Others](others.md)
+   * [LeetCode 292 - Nim Game](292.md)
+* 
