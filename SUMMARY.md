@@ -4,5 +4,5 @@
 * [難易度排序](sortbyacceptance.md)
 * [題號排序](sortbynumber.md)
 * [字串](string.md)
-   * LeetCode 344 - Reverse String	
+   * [LeetCode 344 - Reverse String](344.md)
 
