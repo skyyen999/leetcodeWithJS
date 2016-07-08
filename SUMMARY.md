@@ -6,10 +6,9 @@
 * 字串String
    * [LeetCode 344 - Reverse String](questions/344md.md)
 * 數學
-   * [Add Digits](/questions/258md.md)
+* [Add Digits](questions/258md.md)
 * [其他Others](others.md)
-   * [LeetCode 371 - Sum of Two Integers](/question/371md.md)
+   * [LeetCode 371 - Sum of Two Integers](question/371md.md)
    * [LeetCode 292 - Nim Game](questions/292md.md)
    * [/questions/xxxmd.md]
-
 
