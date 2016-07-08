@@ -4,7 +4,7 @@
 * [難易度排序](sortbyacceptance.md)
 * [題號排序](sortbynumber.md)
 * [字串String](string.md)
-   * [LeetCode 344 - Reverse String](344.md)
+   * [LeetCode 344 - Reverse String](344md.md)
 * [其他Others](others.md)
    * [LeetCode 292 - Nim Game](292md.md)
 
