@@ -1,6 +1,6 @@
 # Summary
 
 * [簡介](README.md)
-* BinaryTree
+* [BinaryTree](binarytree.md)
 * A
 
