@@ -1,14 +1,16 @@
-# LeetCode with javascript
+# LeetCode with Javascript
 ## by Yan(驗)
 
 ***
-#前言
-> 寫這些
+#LeetCode with Javascript
+>本書連結：[LeetCode with Javascript](https://www.gitbook.com/read/book/skyyen999/-leetcode-with-javascript)  
+>
+> 
 > 
 
 
 
-[AA](https://www.gitbook.com/read/book/skyyen999/-leetcode-with-javascript)
+
 
 ## 
 
