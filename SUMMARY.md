@@ -13,7 +13,7 @@
 * 二元樹Binary Tree
    * [LeetCode 104 - Maximum Depth of Binary Tree](questions/104md.md)
    * [LeetCode 226 - Invert Binary Tree](questions/226md.md)
-   * [LeetCode 100 - Same Tree]
+   * [LeetCode 100 - Same Tree](questions/100.md)
 * 連結串列LinkedList
    * [LeetCode 237 - Delete Node in a Linked List](questions/237md.md)
 * [其他Others](others.md)
