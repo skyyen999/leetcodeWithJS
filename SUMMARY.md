@@ -9,9 +9,13 @@
    * [LeetCode 258 - Add Digits](questions/258md.md)
 * 陣列Array
    * [LeetCode 283 - Move Zeroes](questions/283md.md)
+   * [LeetCode 349 - Intersection of Two Arrays](questions/349.md)
 * 二元樹Binary Tree
    * [LeetCode 104 - Maximum Depth of Binary Tree](questions/104md.md)
    * [LeetCode 226 - Invert Binary Tree](questions/226md.md)
+   * [LeetCode 100 - Same Tree]
+* 連結串列LinkedList
+   * [LeetCode 237 - Delete Node in a Linked List]
 * [其他Others](others.md)
    * [LeetCode 371 - Sum of Two Integers](questions/371md.md)
    * [LeetCode 292 - Nim Game](questions/292md.md)
