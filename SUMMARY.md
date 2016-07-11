@@ -15,7 +15,7 @@
    * [LeetCode 226 - Invert Binary Tree](questions/226md.md)
    * [LeetCode 100 - Same Tree]
 * 連結串列LinkedList
-   * [LeetCode 237 - Delete Node in a Linked List](questions/237.md)
+   * [LeetCode 237 - Delete Node in a Linked List](questions/237md.md)
 * [其他Others](others.md)
    * [LeetCode 371 - Sum of Two Integers](questions/371md.md)
    * [LeetCode 292 - Nim Game](questions/292md.md)
