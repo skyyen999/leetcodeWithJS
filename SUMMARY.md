@@ -8,7 +8,7 @@
 * 數學Number
   * [LeetCode 258 - Add Digits](questions/258md.md)
 * 陣列Array
-  * [LeetCode 283 - Move Zeroes](/questions/xxxmd.md) 
+  * [LeetCode 283 - Move Zeroes](/questions/283.md) 
 * 二元樹Binary Tree
   * [LeetCode 104 - Maximum Depth of Binary Tree](questions/104md.md)
   * [LeetCode 226 - Invert Binary Tree](questions/226md.md)
