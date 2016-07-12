@@ -1,6 +1,6 @@
 # LeetCode with Javascript
 ## by Yan(驗)   
-###### at 201607
+###### at 2016
 
 ***
 
