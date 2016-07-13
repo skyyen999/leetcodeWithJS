@@ -8,10 +8,13 @@
    * [242. Valid Anagram]
 * 數學Number
    * [LeetCode 258. Add Digits](questions/258md.md)
-   * [LeetCode 171. Excel Sheet Column Number]
+   * [LeetCode 171. Excel Sheet Column Number](questions/171.md)
 * 陣列Array
    * [LeetCode 283. Move Zeroes](questions/283md.md)
    * [LeetCode 349. Intersection of Two Arrays](questions/349md.md)
+   * [169. Majority Element]
+   * [217. Contains Duplicate]
+   * [350. Intersection of Two Arrays II]
 * 二元樹Binary Tree
    * [LeetCode 104. Maximum Depth of Binary Tree](questions/104md.md)
    * [LeetCode 226. Invert Binary Tree](questions/226md.md)
