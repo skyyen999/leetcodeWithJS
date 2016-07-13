@@ -13,7 +13,7 @@
    * [LeetCode 283. Move Zeroes](questions/283md.md)
    * [LeetCode 349. Intersection of Two Arrays](questions/349md.md)
    * [LeetCode 169. Majority Element](questions/169md.md)
-   * [LeetCode 217. Contains Duplicate](questions/217.md)
+   * [LeetCode 217. Contains Duplicate](questions/217md.md)
    * [LeetCode 350. Intersection of Two Arrays II](questions/350.md)
 * 二元樹Binary Tree
    * [LeetCode 104. Maximum Depth of Binary Tree](questions/104md.md)
