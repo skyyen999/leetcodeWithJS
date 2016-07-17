@@ -6,6 +6,7 @@
 * 字串String
    * [LeetCode 344. Reverse String](questions/344md.md)
    * [LeetCode 242. Valid Anagram](questions/242md.md)
+   * [LeetCOde  13. Roman to Integer](questions/13.md)
 * 數學Number
    * [LeetCode 258. Add Digits](questions/258md.md)
    * [LeetCode 171. Excel Sheet Column Number](questions/171md.md)
