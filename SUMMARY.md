@@ -10,6 +10,7 @@
 * 數學Number
    * [LeetCode 258. Add Digits](questions/258md.md)
    * [LeetCode 171. Excel Sheet Column Number](questions/171md.md)
+   * LeetCOde 326. Power of Three(questions/326.md)
 * 陣列Array
    * [LeetCode 283. Move Zeroes](questions/283md.md)
    * [LeetCode 349. Intersection of Two Arrays](questions/349md.md)
@@ -22,6 +23,7 @@
    * [LeetCode 100. Same Tree](questions/100md.md)
 * 連結串列LinkedList
    * [LeetCode 237. Delete Node in a Linked List](questions/237md.md)
+   * [LeetCode 206. Reverse Linked List](questions/206.md)
 * [其他Others](others.md)
    * [LeetCode 371. Sum of Two Integers](questions/371md.md)
    * [LeetCode 292. Nim Game](questions/292md.md)
