@@ -24,7 +24,7 @@
    * [LeetCode 104. Maximum Depth of Binary Tree](questions/104md.md)
    * [LeetCode 226. Invert Binary Tree](questions/226md.md)
    * [LeetCode 100. Same Tree](questions/100md.md)
-   * [LeetCode 235. Lowest Common Ancestor of a Binary Search](questions/235.md) Tree(questions/235.md)
+   * [LeetCode 235. Lowest Common Ancestor of a Binary Search](questions/235md.md)
 * 連結串列LinkedList
    * [LeetCode 206. Reverse Linked List](questions/206md.md)
    * [LeetCode 237. Delete Node in a Linked List](questions/237md.md)
