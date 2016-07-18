@@ -12,7 +12,7 @@
    * [LeetCode 171. Excel Sheet Column Number](questions/171md.md)
    * [LeetCode 326. Power of Three](questions/326md.md)
    * [LeetCode 231. Power of Two](questions/231md.md)
-   * [LeetCode 202. Happy Number](questions/202.md)
+   * [LeetCode 202. Happy Number](questions/202md.md)
    * LeetCode 263. Ugly Number(questions/263.md)
 * 陣列Array
    * [LeetCode 283. Move Zeroes](questions/283md.md)
