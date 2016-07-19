@@ -15,7 +15,7 @@
    * [LeetCode 231. Power of Two](questions/231md.md)
    * [LeetCode 202. Happy Number](questions/202md.md)
    * [LeetCode 263. Ugly Number](questions/263md.md)
-   * LeetCode 342. Power of Four(questions/342.md)
+   * [LeetCode 342. Power of Four](questions/342.md)
 * 陣列Array
    * [LeetCode 283. Move Zeroes](questions/283md.md)
    * [LeetCode 349. Intersection of Two Arrays](questions/349md.md)
