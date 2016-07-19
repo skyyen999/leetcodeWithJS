@@ -32,7 +32,7 @@
    * [LeetCode 206. Reverse Linked List](questions/206md.md)
    * [LeetCode 237. Delete Node in a Linked List](questions/237md.md)
    * [LeetCode 83. Remove Duplicates from Sorted List](questions/83md.md)
-   * [LeetCode 141. Linked List Cycle](questions/141.md)
+   * [LeetCode 141. Linked List Cycle](questions/141md.md)
    * LeetCode 21. Merge Two Sorted Lists(questions/21.md)
 * [其他Others](others.md)
    * [LeetCode 371. Sum of Two Integers](questions/371md.md)
