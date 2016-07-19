@@ -31,7 +31,7 @@
 * 連結串列LinkedList
    * [LeetCode 206. Reverse Linked List](questions/206md.md)
    * [LeetCode 237. Delete Node in a Linked List](questions/237md.md)
-   * LeetCode 83. Remove Duplicates from Sorted List
+   * [LeetCode 83. Remove Duplicates from Sorted List](questions/83.md)
    * LeetCode 141. Linked List Cycle
    * LeetCode 21. Merge Two Sorted Lists
 * [其他Others](others.md)
