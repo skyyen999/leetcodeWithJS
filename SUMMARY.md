@@ -16,6 +16,7 @@
    * [LeetCode 202. Happy Number](questions/202md.md)
    * [LeetCode 263. Ugly Number](questions/263md.md)
    * [LeetCode 342. Power of Four](questions/342md.md)
+   * LeetCode 66. Plus One(questions/66.md)
 * 陣列Array
    * [LeetCode 283. Move Zeroes](questions/283md.md)
    * [LeetCode 349. Intersection of Two Arrays](questions/349md.md)
@@ -23,11 +24,17 @@
    * [LeetCode 217. Contains Duplicate](questions/217md.md)
    * [LeetCode 350. Intersection of Two Arrays II](questions/350md.md)
    * [LeetCode 121. Best Time to Buy and Sell Stock](questions/121md.md)
+   * LeetCode 27. Remove Element(questions/27.md)
+   * LeetCode 118. Pascal's Triangle(questions/118.md)
+   * LeetCode 26. Remove Duplicates from Sorted Array(questions/26.md)
+   * 
 * 二元樹Binary Tree
    * [LeetCode 104. Maximum Depth of Binary Tree](questions/104md.md)
    * [LeetCode 226. Invert Binary Tree](questions/226md.md)
    * [LeetCode 100. Same Tree](questions/100md.md)
    * [LeetCode 235. Lowest Common Ancestor of a Binary Search](questions/235md.md)
+   * LeetCode 101. Symmetric Tree(questions/101.md)
+   * LeetCode 110. Balanced Binary Tree(questions/110.md)
 * 連結串列LinkedList
    * [LeetCode 206. Reverse Linked List](questions/206md.md)
    * [LeetCode 237. Delete Node in a Linked List](questions/237md.md)
@@ -41,4 +48,5 @@
    * [LeetCode 191. Number of 1 Bits](questions/191md.md)
    * [LeetCode 70. Climbing Stairs](questions/70md.md)
    * LeetCode 198. House Robber(questions/198.md)
+   * LeetCode 232. Implement Queue using Stacks(questions/232.md)
 
