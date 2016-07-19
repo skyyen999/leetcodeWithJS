@@ -22,7 +22,7 @@
    * [LeetCode 169. Majority Element](questions/169md.md)
    * [LeetCode 217. Contains Duplicate](questions/217md.md)
    * [LeetCode 350. Intersection of Two Arrays II](questions/350md.md)
-   * [LeetCode 121. Best Time to Buy and Sell Stock](questions/121.md)
+   * [LeetCode 121. Best Time to Buy and Sell Stock](questions/121md.md)
 * 二元樹Binary Tree
    * [LeetCode 104. Maximum Depth of Binary Tree](questions/104md.md)
    * [LeetCode 226. Invert Binary Tree](questions/226md.md)
