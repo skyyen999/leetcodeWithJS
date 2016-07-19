@@ -38,6 +38,6 @@
    * [LeetCode 371. Sum of Two Integers](questions/371md.md)
    * [LeetCode 292. Nim Game](questions/292md.md)
    * [LeetCode 191. Number of 1 Bits](questions/191md.md)
-   * [LeetCode 70. Climbing Stairs](questions/70.md)
+   * [LeetCode 70. Climbing Stairs](questions/70md.md)
    * LeetCode 198. House Robber(questions/198.md)
 
