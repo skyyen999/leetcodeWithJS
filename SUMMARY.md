@@ -44,7 +44,7 @@
    * [LeetCode 24. Swap Nodes in Pairs](questions/24md.md)
 * 動態歸劃Optimization
    * [LeetCode 121. Best Time to Buy and Sell Stock](questions/121md.md)
-   * [LeetCode 198. House Robber](questions/198md.md) 
+   * [LeetCode 198. House Robber](questions/198md.md)
 * [其他Others](others.md)
    * [LeetCode 371. Sum of Two Integers](questions/371md.md)
    * [LeetCode 292. Nim Game](questions/292md.md)
