@@ -34,7 +34,7 @@
    * [LeetCode 102. Binary Tree Level Order Traversal](questions/102md.md)
    * [LeetCode 107. Binary Tree Level Order Traversal II](questions/107md.md)
    * [LeetCode 101. Symmetric Tree](questions/101md.md)
-   * [LeetCode 110. Balanced Binary Tree](questions/110.md)
+   * [LeetCode 110. Balanced Binary Tree](questions/110md.md)
 * 連結串列LinkedList
    * [LeetCode 206. Reverse Linked List](questions/206md.md)
    * [LeetCode 237. Delete Node in a Linked List](questions/237md.md)
