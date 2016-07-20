@@ -24,7 +24,7 @@
    * [LeetCode 217. Contains Duplicate](questions/217md.md)
    * [LeetCode 350. Intersection of Two Arrays II](questions/350md.md)
    * [LeetCode 27. Remove Element](questions/27md.md)
-   * [LeetCode 118. Pascal's Triangle](questions/118.md)
+   * [LeetCode 118. Pascal's Triangle](questions/118md.md)
    * LeetCode 26. Remove Duplicates from Sorted Array(questions/26.md)
 * 二元樹Binary Tree
    * [LeetCode 104. Maximum Depth of Binary Tree](questions/104md.md)
