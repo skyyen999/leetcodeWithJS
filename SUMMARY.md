@@ -23,7 +23,7 @@
    * [LeetCode 169. Majority Element](questions/169md.md)
    * [LeetCode 217. Contains Duplicate](questions/217md.md)
    * [LeetCode 350. Intersection of Two Arrays II](questions/350md.md)
-   * [LeetCode 27. Remove Element](questions/27.md)
+   * [LeetCode 27. Remove Element](questions/27md.md)
    * LeetCode 118. Pascal's Triangle(questions/118.md)
    * LeetCode 26. Remove Duplicates from Sorted Array(questions/26.md)
 * 二元樹Binary Tree
