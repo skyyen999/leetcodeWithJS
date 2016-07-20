@@ -23,7 +23,6 @@
    * [LeetCode 169. Majority Element](questions/169md.md)
    * [LeetCode 217. Contains Duplicate](questions/217md.md)
    * [LeetCode 350. Intersection of Two Arrays II](questions/350md.md)
-   * [LeetCode 121. Best Time to Buy and Sell Stock](questions/121md.md)
    * LeetCode 27. Remove Element(questions/27.md)
    * LeetCode 118. Pascal's Triangle(questions/118.md)
    * LeetCode 26. Remove Duplicates from Sorted Array(questions/26.md)
@@ -41,11 +40,14 @@
    * [LeetCode 141. Linked List Cycle](questions/141md.md)
    * [LeetCode 21. Merge Two Sorted Lists](questions/21md.md)
    * [LeetCode 24. Swap Nodes in Pairs](questions/24md.md)
+* 動態歸劃Optimization
+   * [LeetCode 121. Best Time to Buy and Sell Stock](questions/121md.md)
+   * [LeetCode 198. House Robber](questions/198md.md) 
 * [其他Others](others.md)
    * [LeetCode 371. Sum of Two Integers](questions/371md.md)
    * [LeetCode 292. Nim Game](questions/292md.md)
    * [LeetCode 191. Number of 1 Bits](questions/191md.md)
    * [LeetCode 70. Climbing Stairs](questions/70md.md)
-   * [LeetCode 198. House Robber](questions/198md.md)
+
    * LeetCode 232. Implement Queue using Stacks(questions/232.md)
 
