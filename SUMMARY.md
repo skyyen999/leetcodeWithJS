@@ -27,7 +27,6 @@
    * LeetCode 27. Remove Element(questions/27.md)
    * LeetCode 118. Pascal's Triangle(questions/118.md)
    * LeetCode 26. Remove Duplicates from Sorted Array(questions/26.md)
-   * 
 * 二元樹Binary Tree
    * [LeetCode 104. Maximum Depth of Binary Tree](questions/104md.md)
    * [LeetCode 226. Invert Binary Tree](questions/226md.md)
@@ -47,6 +46,6 @@
    * [LeetCode 292. Nim Game](questions/292md.md)
    * [LeetCode 191. Number of 1 Bits](questions/191md.md)
    * [LeetCode 70. Climbing Stairs](questions/70md.md)
-   * [LeetCode 198. House Robber](questions/198.md)
+   * [LeetCode 198. House Robber](questions/198md.md)
    * LeetCode 232. Implement Queue using Stacks(questions/232.md)
 
