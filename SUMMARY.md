@@ -39,7 +39,7 @@
    * [LeetCode 107. Binary Tree Level Order Traversal II](questions/107md.md)
    * [LeetCode 101. Symmetric Tree](questions/101md.md)
    * [LeetCode 110. Balanced Binary Tree](questions/110md.md)
-   * [LeetCode 112. Path Sum](questions/112.md)
+   * [LeetCode 112. Path Sum](questions/112md.md)
 * 連結串列LinkedList
    * [LeetCode 206. Reverse Linked List](questions/206md.md)
    * [LeetCode 237. Delete Node in a Linked List](questions/237md.md)
@@ -51,7 +51,7 @@
    * [LeetCode 121. Best Time to Buy and Sell Stock](questions/121md.md)
    * [LeetCode 198. House Robber](questions/198md.md)
 * 搜尋Search
-   * LeetCode 374. Guess Number Higher or Lower(questions/374.md) 
+   * LeetCode 374. Guess Number Higher or Lower(questions/374.md)
 * 其他Others
    * [LeetCode 371. Sum of Two Integers](questions/371md.md)
    * [LeetCode 292. Nim Game](questions/292md.md)
@@ -59,5 +59,4 @@
    * [LeetCode 70. Climbing Stairs](questions/70md.md)
    * [LeetCode 232. Implement Queue using Stacks](questions/232md.md)
    * LeetCode 36. Valid Sudoku(questions/36.md)
-
 
