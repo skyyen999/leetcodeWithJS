@@ -58,5 +58,5 @@
    * [LeetCode 191. Number of 1 Bits](questions/191md.md)
    * [LeetCode 70. Climbing Stairs](questions/70md.md)
    * [LeetCode 232. Implement Queue using Stacks](questions/232md.md)
-   * [LeetCode 36. Valid Sudoku](questions/36.md)
+   * [LeetCode 36. Valid Sudoku](questions/36md.md)
 
