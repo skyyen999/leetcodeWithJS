@@ -1,4 +1,5 @@
 # LeetCodee 9. Palindrome Number
+##題目
 Determine whether an integer is a palindrome. Do this without extra space.
 
 Some hints:
@@ -10,7 +11,7 @@ You could also try reversing an integer. However, if you have solved the problem
 
 There is a more generic way of solving this problem.
 
-##題目
+##翻譯
 判斷一個int整數是否是自己的迴文數，不能使用額外的空間來操作
 
 提示：  
@@ -18,21 +19,10 @@ There is a more generic way of solving this problem.
   
 如果你想用字串來解是不行的，因為不能使用額外的空間。
   
-你也可以反轉整數，如果你之前已經做過"Reverse Integer"，你會知道反轉後的字數能 
-##翻譯
-給一個正整數n，回傳n!中有幾個0
+你也可以反轉整數，如果你之前已經做過"Reverse Integer"，你會知道反轉後的數可能會超過integer的最大值。
 
-注意：你的解法應該是logN的時間複雜度
-
-範例：
-n = 5 ; n! = 120 回傳 1  
-    
 ##思路
-1. 要出現0，也就是10的n次方，可以推論一定要出現2跟5
-2. 2這個數字到處撿都是，所以真正決定會出現幾個0的，是n!裡面包含幾個5
-3. 例如上面的n=5，5*4*3*2*1 = 120，可以發現5*2 =10，因此會出現一個0
-4. n = 25，會出現 25,20,15,10,5共5個帶有5的數字，不過25其實包含了5*5，所以25!總共會出現5+1=6個10。
-
+1. 
 ##解題
 ```
 /**
