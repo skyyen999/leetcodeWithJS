@@ -17,6 +17,7 @@
    * [LeetCode 263. Ugly Number](questions/263md.md)
    * [LeetCode 342. Power of Four](questions/342md.md)
    * [LeetCode 66. Plus One](questions/66md.md)
+   * LeetCodee 172. Factorial Trailing Zeroes(questions/172.md)
 * 陣列Array
    * [LeetCode 283. Move Zeroes](questions/283md.md)
    * [LeetCode 349. Intersection of Two Arrays](questions/349md.md)
