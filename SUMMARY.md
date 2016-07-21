@@ -39,7 +39,7 @@
    * [LeetCode 107. Binary Tree Level Order Traversal II](questions/107md.md)
    * [LeetCode 101. Symmetric Tree](questions/101md.md)
    * [LeetCode 110. Balanced Binary Tree](questions/110md.md)
-   * LeetCode 112. Path Sum(questions/112.md)
+   * [LeetCode 112. Path Sum](questions/112.md)
 * 連結串列LinkedList
    * [LeetCode 206. Reverse Linked List](questions/206md.md)
    * [LeetCode 237. Delete Node in a Linked List](questions/237md.md)
