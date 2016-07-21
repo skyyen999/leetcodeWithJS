@@ -51,7 +51,7 @@
    * [LeetCode 121. Best Time to Buy and Sell Stock](questions/121md.md)
    * [LeetCode 198. House Robber](questions/198md.md)
 * 搜尋Search
-   * [LeetCode 374. Guess Number Higher or Lower](questions/374.md)
+   * [LeetCode 374. Guess Number Higher or Lower](questions/374md.md)
 * 其他Others
    * [LeetCode 371. Sum of Two Integers](questions/371md.md)
    * [LeetCode 292. Nim Game](questions/292md.md)
