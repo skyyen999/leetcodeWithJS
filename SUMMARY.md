@@ -17,7 +17,7 @@
    * [LeetCode 263. Ugly Number](questions/263md.md)
    * [LeetCode 342. Power of Four](questions/342md.md)
    * [LeetCode 66. Plus One](questions/66md.md)
-   * [LeetCode 172. Factorial Trailing Zeroes](questions/172md.md
+   * [LeetCode 172. Factorial Trailing Zeroes](questions/172md.md)
    * [LeetCode 9. Palindrome Number](questions/9md.md)
    * [LeetCode 7. Reverse Integer](questions/7.md)
 * 陣列Array
