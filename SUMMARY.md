@@ -19,7 +19,7 @@
    * [LeetCode 66. Plus One](questions/66md.md)
    * [LeetCode 172. Factorial Trailing Zeroes](questions/172md.md)
    * [LeetCode 9. Palindrome Number](questions/9md.md)
-   * [LeetCode 7. Reverse Integer](questions/7.md)
+   * [LeetCode 7. Reverse Integer](questions/7md.md)
 * 陣列Array
    * [LeetCode 283. Move Zeroes](questions/283md.md)
    * [LeetCode 349. Intersection of Two Arrays](questions/349md.md)
