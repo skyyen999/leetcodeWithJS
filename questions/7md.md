@@ -26,7 +26,9 @@ For the purpose of this problem, assume that your function returns 0 when the re
 你也可以反轉整數，如果你之前已經做過"Reverse Integer"，你會知道反轉後的數可能會超過integer的最大值。
 
 ##思路
-1. 
+1. 這是我一開始寫leetCode的解法，把數字轉成string後反轉
+2. 要額外處理的就是開頭是負數，-123反轉後變成321-，需把最後的負號搬到前面
+3. 另外有不使用額外空間(ex. array,string etc.)的解法，請參考  [9. Palindrome Number](9md.md)
 ##解題
 ```
 /**
@@ -40,15 +42,15 @@ var reverse = function(x) {
     var nFlag = "";
     // x to string
     var str = x.toString();
-    // if start with '-', cut and save it
-    if(str.charAt(0) == '-'){
-        str = str.replace('-','');
-        nFlag = '-';
-    } 
-    
     
     // reverse number string
     var rStr = nFlag + str.split("").reverse().join("");
+    
+    // if x < 0, move '-'  from rStr back to front
+    if(rStr.indexOf('-') != -1){
+        rStr = '-' + rStr.replace('-','');    
+    }
+    
     var result = parseInt(rStr);
     
     if(result > INT_MAX || result < -(1+INT_MAX)) return 0;
