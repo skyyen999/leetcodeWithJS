@@ -22,23 +22,32 @@ There is a more generic way of solving this problem.
 你也可以反轉整數，如果你之前已經做過"Reverse Integer"，你會知道反轉後的數可能會超過integer的最大值。
 
 ##思路
-1. 
+1. 這邊先說明不使用額外的空間，根據discuss裡面討論的結果，應該是不能用一個O(n)的額外空間(ex. array, string之類的)，用一個O(1)的變數是可以的。
+2. 把傳入的x整個反轉後再跟本來的x比較是一致，很簡單，直接看code
 ##解題
 ```
 /**
- * @param {number} n
- * @return {number}
+ * @param {number} x
+ * @return {boolean}
  */
-var trailingZeroes = function(n) {
-    if(n < 5) return 0 ;
+var isPalindrome = function(x) {
+    // x < 0 or x > (2^32 - 1) , false;
+    if(x < 0 || x > Math.pow(2,32)-1) return false;
+    if(x < 10) return true;
     
-    var count = 0;
-    // 算階層內有幾個5出現
-    while(n >= 5){
-        count += Math.floor(n/5);
-        n = parseInt(n/5);
+    // keep x
+    var num = x;
+    
+    // 先抓出最高位數，轉成個位數
+    var recNum = x%10;
+    x  = parseInt(x/10);
+    
+    // 將recNum*10，再抓最高位數加到recNumb
+    while(x != 0){
+        recNum = recNum*10;
+        recNum = recNum + x%10;
+        x = parseInt(x/10);
     }
-
-    return count;
+    return recNum == num;
 };
 ```
