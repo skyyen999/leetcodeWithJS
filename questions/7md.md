@@ -18,12 +18,15 @@ For the purpose of this problem, assume that your function returns 0 when the re
 ##翻譯
 反轉一個int整數
 
+x = 123 , return 321
+x = -123 , return -321
+
 提示：  
-負整數會是自己的迴文數嗎(ex. -1)
+假如10，100反轉後會長怎樣。
   
-如果你想用字串來解是不行的，因為不能使用額外的空間。
-  
-你也可以反轉整數，如果你之前已經做過"Reverse Integer"，你會知道反轉後的數可能會超過integer的最大值。
+你有注意到反轉後的數可能會超過Integer的範圍嗎，例如說1000000003反轉後就超過了32-bit的integer。這種情況要怎麼處理?
+
+在這個問題中，超過integer只要回傳
 
 ##思路
 1. 這是我一開始寫leetCode的解法，把數字轉成string後反轉
