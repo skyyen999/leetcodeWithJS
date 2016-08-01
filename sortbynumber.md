@@ -1,7 +1,6 @@
 # 題號排序 
 | #     | 題目                                                                | 通過率     | 
 |-----|-----------------------------------------------------------------------|-----|
-| -- | -- | -- |
 | 1   | [Two Sum]((questions/1md.md)                                          | 25% |
 | 6   | [ZigZag Conversion]((questions/6md.md)                                | 25% |
 | 7   | [Reverse Integer]((questions/7md.md)                                  | 24% |
