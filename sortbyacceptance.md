@@ -45,7 +45,7 @@
 | 172 | [Factorial Trailing Zeroes]((questions/172md.md)                      | 34% |
 | 119 | [Pascal's Triangle II]((questions/119md.md)                           | 33% |
 | 9   | [Palindrome Number]((questions/9md.md)                                | 33% |
-| 36  | Valid Sudoku]((questions/36md.md)                                    | 32% |
+| 36  | [Valid Sudoku]((questions/36md.md)                                    | 32% |
 | 112 | [Path Sum]((questions/112md.md)                                       | 32% |
 | 374 | [Guess Number Higher or Lower]((questions/374md.md)                   | 31% |
 | 299 | [Bulls and Cows]((questions/299md.md)                                 | 31% |
@@ -53,7 +53,7 @@
 | 205 | [Isomorphic Strings]((questions/205md.md)                             | 31% |
 | 225 | [Implement Stack using Queues]((questions/225md.md)                   | 31% |
 | 223 | [Rectangle Area]((questions/223md.md)                                 | 31% |
-| 257 | [Binary Tree Paths]((questions/257md.md)                              | 31% |
+| 257 | Binary Tree Paths]((questions/257md.md)                              | 31% |
 | 160 | [Intersection of Two Linked Lists]((questions/160md.md)               | 31% |
 | 219 | [Contains Duplicate II]((questions/219md.md)                          | 31% |
 | 88  | [Merge Sorted Array]((questions/88md.md)                              | 31% |
