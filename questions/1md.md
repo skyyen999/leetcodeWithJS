@@ -1,11 +1,11 @@
 ﻿# LeetCode 1. Two Sum
 
 ##題目
-Given an array of integers, return indices of the two numbers such that they add up to a specific target.
-
-You may assume that each input would have exactly one solution.
-
-Example:
+Given an array of integers, return indices of the two numbers such that they add up to a specific target.  
+  
+You may assume that each input would have exactly one solution.  
+  
+Example:  
 <pre>
 Given nums = [2, 7, 11, 15], target = 9,
 
@@ -14,10 +14,10 @@ return [0, 1].
 </pre>
 
 ##翻譯
-給一個裡面元素為int的陣列，陣列中會有兩個元素加起來等於target，回傳這兩個元素的位置
-  
-範例：
-[2, 7, 11, 15], target = 9，2+7=9，因此回傳[1,2]
+給一個裡面元素為int的陣列，陣列中會有兩個元素加起來等於target，回傳這兩個元素的位置。  
+   
+範例：  
+[2, 7, 11, 15], target = 9，2+7=9，因此回傳[1,2]  
   
 ##思路
 1. 使用雙迴圈，如果nums[i]+nums[j] = target 就回傳i,j

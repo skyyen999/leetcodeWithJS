@@ -1,4 +1,4 @@
-# Summary
+﻿# Summary
 
 * [簡介](README.md)
 * [通過率排序](sortbyacceptance.md)
@@ -8,6 +8,18 @@
    * [LeetCode 242. Valid Anagram](questions/242md.md)
    * [LeetCode 13. Roman to Integer](questions/13md.md)
    * [LeetCode 345. Reverse Vowels of a String](questions/345md.md)
+   * [LeetCode 205. Isomorphic Strings](questions/205md.md)
+   * [LeetCode 290. Word Pattern](questions/290md.md)  
+   * [LeetCode 38. Count and Say](questions/38md.md)      
+   * [LeetCode 20. Valid Parentheses](questions/20md.md)     
+   * [LeetCode 58. Length of Last Word](questions/58md.md)    
+   * [LeetCode 14. Longest Common Prefix](questions/14md.md)   
+   * [LeetCode 67. Add Binary](questions/67md.md)  
+   * [LeetCode 28. Implement strStr()](questions/28md.md)  
+   * [LeetCode 6. ZigZag Conversion](questions/6md.md) 
+   * [LeetCode 125. Valid Palindrome](questions/125md.md) 
+   * [LeetCode 165. Compare Version Numbers](questions/165md.md) 
+   * [LeetCode 8. String to Integer (atoi)](questions/8md.md) 
 * 數學Number
    * [LeetCode 258. Add Digits](questions/258md.md)
    * [LeetCode 171. Excel Sheet Column Number](questions/171md.md)
@@ -20,6 +32,9 @@
    * [LeetCode 172. Factorial Trailing Zeroes](questions/172md.md)
    * [LeetCode 9. Palindrome Number](questions/9md.md)
    * [LeetCode 7. Reverse Integer](questions/7md.md)
+   * [LeetCode 223. Rectangle Area](questions/223md.md)   
+   * [LeetCode 204. Count Primes](questions/204md.md)  
+   * [LeetCode 168. Excel Sheet Column Title](questions/168md.md)  
 * 陣列Array
    * [LeetCode 283. Move Zeroes](questions/283md.md)
    * [LeetCode 349. Intersection of Two Arrays](questions/349md.md)
@@ -30,6 +45,10 @@
    * [LeetCode 118. Pascal's Triangle](questions/118md.md)
    * [LeetCode 26. Remove Duplicates from Sorted Array](questions/26md.md)
    * [LeetCode 119. Pascal's Triangle II](questions/119md.md)
+   * [LeetCode 88. Merge Sorted Array](questions/88md.md)   
+   * [LeetCode 219. Contains Duplicate II](questions/219md.md) 
+   * [LeetCode 1. Two Sum](questions/1md.md)     
+   * [LeetCode 189. Rotate Array](questions/189md.md)     
 * 二元樹Binary Tree
    * [LeetCode 104. Maximum Depth of Binary Tree](questions/104md.md)
    * [LeetCode 226. Invert Binary Tree](questions/226md.md)
@@ -40,6 +59,8 @@
    * [LeetCode 101. Symmetric Tree](questions/101md.md)
    * [LeetCode 110. Balanced Binary Tree](questions/110md.md)
    * [LeetCode 112. Path Sum](questions/112md.md)
+   * [LeetCode 111. Minimum Depth of Binary Tree](questions/111md.md)
+   * [LeetCode 257. Binary Tree Paths](questions/257md.md)
 * 連結串列LinkedList
    * [LeetCode 206. Reverse Linked List](questions/206md.md)
    * [LeetCode 237. Delete Node in a Linked List](questions/237md.md)
@@ -47,16 +68,25 @@
    * [LeetCode 141. Linked List Cycle](questions/141md.md)
    * [LeetCode 21. Merge Two Sorted Lists](questions/21md.md)
    * [LeetCode 24. Swap Nodes in Pairs](questions/24md.md)
+   * [LeetCode 160. Intersection of Two Linked Lists](questions/160md.md)
+   * [LeetCode 19. Remove Nth Node From End of List](questions/19md.md)
+   * [LeetCode 234. Palindrome Linked List](questions/234md.md)
+   * [LeetCode 203. Remove Linked List Elements](questions/203md.md)
+   * [LeetCode 2. Add Two Numbers](questions/2md.md)
 * 動態歸劃Optimization
+   * [LeetCode 292. Nim Game](questions/292md.md)
+   * [LeetCode 70.  Climbing Stairs](questions/70md.md)   
    * [LeetCode 121. Best Time to Buy and Sell Stock](questions/121md.md)
    * [LeetCode 198. House Robber](questions/198md.md)
+   * [LeetCode 374. Guess Number Higher or Lower](questions/374md.md)   
+   * [LeetCode 278. First Bad Version](questions/278md.md) 
 * 其他Others
    * [LeetCode 371. Sum of Two Integers](questions/371md.md)
-   * [LeetCode 292. Nim Game](questions/292md.md)
    * [LeetCode 191. Number of 1 Bits](questions/191md.md)
-   * [LeetCode 70. Climbing Stairs](questions/70md.md)
    * [LeetCode 232. Implement Queue using Stacks](questions/232md.md)
-   * [LeetCode 36. Valid Sudoku](questions/36md.md)
-   * [LeetCode 374. Guess Number Higher or Lower](questions/374md.md)
-   *  
-
+   * [LeetCode 36.  Valid Sudoku](questions/36md.md)
+   * [LeetCode 299. Bulls and Cows](questions/299md.md) 
+   * [LeetCode 225. Implement Stack using Queues](questions/225md.md)
+   * [LeetCode 190. Reverse Bits](questions/190md.md)
+   * [LeetCode 303. Range Sum Query - Immutable](questions/303md.md)
+   * [LeetCode 155. Min Stack](questions/155md.md)
