@@ -1,4 +1,4 @@
-﻿# [LeetCode with Javascript](https://www.gitbook.com/read/book/skyyen999/-leetcode-with-javascript)  
+# [LeetCode with Javascript](https://www.gitbook.com/read/book/skyyen999/-leetcode-with-javascript)  
 ## by Yan(驗) at 2016
 ***
 ##[開始閱讀](https://www.gitbook.com/read/book/skyyen999/-leetcode-with-javascript)  
