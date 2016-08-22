@@ -1,4 +1,4 @@
-# [LeetCode with Javascript](https://www.gitbook.com/read/book/skyyen999/-leetcode-with-javascript)  
+# LeetCode with Javascript
   
 ## by Yan(驗) at 2016
 ***
@@ -23,6 +23,12 @@ LeetCode是一個線上的網站，提供IT人員面試時常常會遇到的現�
 ，如果這份文件對你有一點點的幫助，不嫌麻煩的話可以到[github](https://github.com/skyyen999/leetcodeWithJS)給一顆星鼓勵一下，
 	有發現錯誤請到[這邊](https://github.com/skyyen999/leetcodeWithJS/issues/new)留言，感激不盡。說了這麼多，請點擊下面連結直接開始閱讀。  
 [開始閱讀](https://www.gitbook.com/read/book/skyyen999/-leetcode-with-javascript)  
+
+
+ ##作者 
+ #### Yan
+ #### mail:   skyyen999@gmail  
+ #### github: https://github.com/skyyen999  
 
 
 
