@@ -1,4 +1,4 @@
-﻿# LeetCode 8. String to Integer (atoi)
+# LeetCode 8. String to Integer (atoi)
 
 ##題目
 Implement atoi to convert a string to an integer.  

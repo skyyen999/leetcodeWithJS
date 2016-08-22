@@ -1,4 +1,4 @@
-﻿# LeetCode 7. Reverse Integer
+# LeetCode 7. Reverse Integer
 
 ##題目
 Reverse digits of an integer.

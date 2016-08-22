@@ -1,4 +1,4 @@
-﻿# LeetCodee 9. Palindrome Number
+# LeetCodee 9. Palindrome Number
 ##題目
 Determine whether an integer is a palindrome. Do this without extra space.
 

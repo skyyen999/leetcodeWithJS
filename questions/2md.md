@@ -1,4 +1,4 @@
-﻿# LeetCode 2. Add Two Numbers
+# LeetCode 2. Add Two Numbers
 
 ##題目
 You are given two linked lists representing two non-negative numbers. The digits are stored in reverse order  
