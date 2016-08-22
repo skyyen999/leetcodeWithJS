@@ -20,7 +20,7 @@ return [0, 1].
 [2, 7, 11, 15], target = 9，2+7=9，因此回傳[1,2]  
   
 ##思路
-1. 使用雙迴圈，如果nums[i]+nums[j] = target 就回傳i,j
+相信大部分人跟我一樣，接觸leetCode的時候都是先寫這題，這題完全就是Easy的題目，使用雙迴圈，如果nums[i]+nums[j] = target 就回傳i,j
   
 ##解題
 ```

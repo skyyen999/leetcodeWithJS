@@ -1,4 +1,4 @@
-# LeetCode 7. Reverse Integer
+﻿# LeetCode 7. Reverse Integer
 
 ##題目
 Reverse digits of an integer.
@@ -16,7 +16,7 @@ Did you notice that the reversed integer might overflow? Assume the input is a 3
 For the purpose of this problem, assume that your function returns 0 when the reversed integer overflows.
 
 ##翻譯
-反轉一個int整數
+反轉一個int整數。
 
 x = 123 , return 321
 x = -123 , return -321
@@ -26,12 +26,12 @@ x = -123 , return -321
   
 你有注意到反轉後的數可能會超過Integer的範圍嗎，例如說1000000003反轉後就超過了32-bit的integer。這種情況要怎麼處理?
 
-在這個問題中，超過integer只要回傳
+在這個問題中，超過integer只要回傳0就可以。
 
 ##思路
-1. 這是我一開始寫leetCode的解法，把數字轉成string後反轉
-2. 要額外處理的就是開頭是負數，-123反轉後變成321-，需把最後的負號搬到前面
-3. 另外有不使用額外空間(ex. array,string etc.)的解法，請參考  [9. Palindrome Number](9md.md)
+這是我一開始寫leetCode的解法，把數字轉成string後反轉，要額外處理的就是開頭是負數，-123反轉後變成321-，需把最後的負號搬到前面。  
+  
+另外有不使用額外空間(ex. array,string etc.)的解法，請參考  [9. Palindrome Number](9md.md)
 ##解題
 ```
 /**

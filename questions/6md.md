@@ -19,9 +19,9 @@ convert("PAYPALISHIRING", 3) should return "PAHNAPLSIIGYIR".
   
 ##翻譯
 字串"PAYPALISHIRING"經過Z字轉換後如圖所示，重組後變成"PAHNAPLSIIGYIR"，
-寫一個convert(string text, int nRows)來將傳入的字串text轉換成n行的Z字轉換
+寫一個convert(string text, int nRows)來將傳入的字串text轉換成n行的Z字轉換。
   
-convert("PAYPALISHIRING", 3) 會回傳 "PAHNAPLSIIGYIR".
+convert("PAYPALISHIRING", 3) 會回傳 "PAHNAPLSIIGYIR"。
 
 這邊用另外一個範例來解釋會比較清楚：  
 text = "ABCDEFGHIJKLMN", n = 4，排成Z字如下，因此轉換後的字串為 "AGMBFHLNCEIKDJ"
