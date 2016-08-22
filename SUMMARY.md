@@ -1,8 +1,7 @@
 # Summary
-
-* [簡介](README.md)
-* [通過率排序](sortbyacceptance.md)
-* [題號排序](sortbynumber.md)
+* [README](README.md)  
+* [通過率排序](sortbyacceptance.md)  
+* [題號排序](sortbynumber.md)  
 * 字串String
    * [LeetCode 344. Reverse String](questions/344md.md)
    * [LeetCode 242. Valid Anagram](questions/242md.md)
