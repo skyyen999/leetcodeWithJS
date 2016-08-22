@@ -1,4 +1,4 @@
-﻿# Summary
+# Summary
 
 * [簡介](README.md)
 * [通過率排序](sortbyacceptance.md)
