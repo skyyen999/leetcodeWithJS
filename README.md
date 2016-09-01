@@ -25,10 +25,10 @@ LeetCode是一個線上的網站，提供IT人員面試時常常會遇到的現�
 [開始閱讀](https://www.gitbook.com/read/book/skyyen999/-leetcode-with-javascript)  
 
 
- ##作者 
- #### Yan
- #### mail:   skyyen999@gmail  
- #### github: https://github.com/skyyen999  
+##作者 
+#### Yan
+#### mail:   skyyen999@gmail.com  
+#### github: https://github.com/skyyen999  
 
 
 
