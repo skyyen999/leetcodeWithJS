@@ -1,5 +1,5 @@
 {
-    "plugins": ["disqus"],"catalog"
+    "plugins": ["disqus","catalog"],
     "pluginsConfig": {
         "disqus": {
             "shortName": "kejyun-disqus-short-name"
